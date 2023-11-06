@@ -1,4 +1,4 @@
-# Chatbot-SYNC-interns
+# Chatbot-Teacher-forcing
 chatbot model using chatterbot dataset from kaggle and a LSTM based model
 
 Project walkthrough:
